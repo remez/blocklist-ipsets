@@ -1,3 +1,13 @@
+This is a fork of firehol/blocklist-ipsets
+
+The ipsets in the original project have not been updated for some time, so here I am trying to keep the ones I think are useful and working updated.
+
+---
+
+Below the original README.md
+
+---
+
 > Due to the amount of data and the frequency of the updates on this repo,
 > github has requested to limit the number of updates.
 > The site [https://iplists.firehol.org](https://iplists.firehol.org) has direct links
