@@ -5,10 +5,15 @@ The ipsets in the original project have not been updated for some time, so here 
 The following ip / ip classes are automatically removed from the lists:
 
 0.0.0.0/32
+
 127.0.0.0/8
+
 169.254.0.0/16
+
 10.0.0.0/8
+
 192.168.0.0/16
+
 176.16.0.0/12
 
 ---
