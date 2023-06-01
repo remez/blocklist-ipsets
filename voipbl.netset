@@ -13,12 +13,12 @@
 # Maintainer      : VoIPBL.org
 # Maintainer URL  : https://www.voipbl.org/
 # List source URL : https://www.voipbl.org/update/
-# Source File Date: Thu Jun  1 18:20:40 UTC 2023 
+# Source File Date: Thu Jun  1 22:24:54 UTC 2023 
 #
 # Category        : attacks
-# Version         : 1685643640 
+# Version         : 1685658294 
 #
-# This File Date  : Thu Jun  1 18:20:40 UTC 2023 
+# This File Date  : Thu Jun  1 22:24:54 UTC 2023 
 # Update Frequency: 4 hours
 # Aggregation     : none
 # Entries         : XXX subnets, XXX unique IPs
@@ -66784,9 +66784,3 @@
 223.244.253.16
 223.245.0.5
 223.255.161.237
-<br />
-<b>Warning</b>:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113 in <b>/home/voipbl/html/php/index.php</b> on line <b>79</b><br />
-<b>Warning</b>:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in <b>/home/voipbl/html/php/index.php</b> on line <b>107</b><br />
-<b>Warning</b>:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in <b>/home/voipbl/html/php/index.php</b> on line <b>107</b><br />
-<b>Warning</b>:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in <b>/home/voipbl/html/php/index.php</b> on line <b>80</b><br />
-<b>Warning</b>:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in <b>/home/voipbl/html/php/index.php</b> on line <b>80</b><br />
