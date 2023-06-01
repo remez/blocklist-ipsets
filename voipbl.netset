@@ -13,12 +13,12 @@
 # Maintainer      : VoIPBL.org
 # Maintainer URL  : https://www.voipbl.org/
 # List source URL : https://www.voipbl.org/update/
-# Source File Date: Thu Jun  1 10:23:27 UTC 2023 
+# Source File Date: Thu Jun  1 18:20:40 UTC 2023 
 #
 # Category        : attacks
-# Version         : 1685615007 
+# Version         : 1685643640 
 #
-# This File Date  : Thu Jun  1 10:23:27 UTC 2023 
+# This File Date  : Thu Jun  1 18:20:40 UTC 2023 
 # Update Frequency: 4 hours
 # Aggregation     : none
 # Entries         : XXX subnets, XXX unique IPs
@@ -5825,6 +5825,7 @@
 24.38.11.182
 24.38.67.102
 24.38.95.34
+24.39.16.2
 24.39.129.250
 24.39.169.19
 24.42.161.212
@@ -10886,6 +10887,7 @@
 45.14.71.12/30
 45.14.71.16/31
 45.14.71.19
+45.14.195.59
 45.14.224.96/31
 45.14.224.100
 45.14.224.107
@@ -13327,6 +13329,7 @@
 46.101.214.140
 46.101.226.182
 46.101.231.21
+46.101.245.47
 46.101.246.164
 46.102.153.243
 46.105.30.27
@@ -20111,6 +20114,7 @@
 75.2.21.23
 75.2.26.18
 75.18.223.201
+75.24.56.60
 75.53.240.146
 75.72.159.45
 75.74.137.23
@@ -30612,6 +30616,7 @@
 108.28.58.89
 108.31.118.24
 108.31.119.236
+108.34.150.117
 108.34.221.10
 108.36.165.70
 108.46.52.105
@@ -49021,6 +49026,7 @@
 164.92.118.140
 164.92.124.43
 164.92.127.181
+164.92.128.36
 164.92.129.196
 164.92.132.166
 164.92.132.198
@@ -63025,6 +63031,7 @@
 203.161.32.211
 203.163.246.86
 203.167.14.31
+203.167.14.51
 203.167.14.84/31
 203.171.17.50
 203.173.98.22
@@ -65768,6 +65775,7 @@
 217.96.41.18
 217.100.238.181
 217.100.252.234
+217.109.145.99
 217.111.76.94
 217.111.106.182
 217.111.218.204
@@ -66776,3 +66784,9 @@
 223.244.253.16
 223.245.0.5
 223.255.161.237
+<br />
+<b>Warning</b>:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113 in <b>/home/voipbl/html/php/index.php</b> on line <b>79</b><br />
+<b>Warning</b>:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in <b>/home/voipbl/html/php/index.php</b> on line <b>107</b><br />
+<b>Warning</b>:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in <b>/home/voipbl/html/php/index.php</b> on line <b>107</b><br />
+<b>Warning</b>:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in <b>/home/voipbl/html/php/index.php</b> on line <b>80</b><br />
+<b>Warning</b>:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in <b>/home/voipbl/html/php/index.php</b> on line <b>80</b><br />
