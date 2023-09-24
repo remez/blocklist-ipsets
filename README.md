@@ -22,6 +22,7 @@ duplicate ip's in the lists are also removed and sorted in ascending order
 ---
 
 Below the original README.md
+The information contained below may be very inaccurate or not working
 
 ---
 
