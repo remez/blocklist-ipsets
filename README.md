@@ -1,3 +1,9 @@
+2023.09.24
+
+- I removed lists that are no longer current or updateable for various reasons. 
+ 
+---
+
 This is a fork of firehol/blocklist-ipsets
 
 The ipsets in the original project have not been updated for some time, so here I am trying to keep the ones I think are useful and working updated.
