@@ -13,12 +13,12 @@
 # Maintainer      : VoIPBL.org
 # Maintainer URL  : https://www.voipbl.org/
 # List source URL : https://www.voipbl.org/update/
-# Source File Date: Thu Sep 28 02:10:52 UTC 2023 
+# Source File Date: Thu Sep 28 10:10:53 UTC 2023 
 #
 # Category        : attacks
-# Version         : 1695867052 
+# Version         : 1695895853 
 #
-# This File Date  : Thu Sep 28 02:10:52 UTC 2023 
+# This File Date  : Thu Sep 28 10:10:53 UTC 2023 
 # Update Frequency: 4 hours
 # Aggregation     : none
 # Entries         : XXX subnets, XXX unique IPs
@@ -8934,6 +8934,7 @@
 37.120.159.132
 37.120.159.134
 37.120.159.140
+37.120.191.85
 37.120.191.130
 37.120.191.193
 37.120.192.102
@@ -25245,6 +25246,7 @@
 91.208.92.9
 91.208.92.81
 91.208.92.219
+91.208.92.224
 91.208.162.131
 91.208.245.162
 91.210.224.192
