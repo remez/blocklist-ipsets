@@ -10,12 +10,12 @@
 # Maintainer      : Abuse.ch
 # Maintainer URL  : https://feodotracker.abuse.ch/
 # List source URL : https://feodotracker.abuse.ch/blocklist/?download=ipblocklist
-# Source File Date: Sun Mar  3 19:14:13 UTC 2024
+# Source File Date: Tue Mar  5 03:11:39 UTC 2024
 #
 # Category        : malware
-# Version         : 1709493253
+# Version         : 1709608299
 #
-# This File Date  : Sun Mar  3 19:14:13 UTC 2024 
+# This File Date  : Tue Mar  5 03:11:39 UTC 2024 
 # Update Frequency: 30 mins 
 # Aggregation     : none
 # Entries         : XXX unique IPs
@@ -31,7 +31,6 @@
 #
 23.226.138.143
 23.226.138.161
-37.60.242.85
 85.239.243.155
 86.38.225.106
 89.117.23.186
