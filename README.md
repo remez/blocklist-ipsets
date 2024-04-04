@@ -1,3 +1,8 @@
+2024.04.04
+
+- I removed blackhole* lists because the blackhole.monster domain and blacklist-related links seem unreachable or expired
+
+
 2023.09.24
 
 - I removed lists that are no longer current or updateable for various reasons. 
