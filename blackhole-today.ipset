@@ -13,12 +13,12 @@
 # Maintainer      : IP_Blackhole
 # Maintainer URL  : https://blackhole.s-e-r-v-e-r.pw/
 # List source URL : https://blackhole.s-e-r-v-e-r.pw/blackhole-today
-# Source File Date: Fri Aug  9 06:13:52 UTC 2024 
+# Source File Date: Fri Aug  9 10:12:32 UTC 2024 
 #
 # Category        : attacks
-# Version         : 1723184032 
+# Version         : 1723198352 
 #
-# This File Date  : Fri Aug  9 06:13:52 UTC 2024 
+# This File Date  : Fri Aug  9 10:12:32 UTC 2024 
 # Update Frequency: 4 hours
 # Aggregation     : none
 # Entries         : XXX subnets, XXX unique IPs
@@ -33,22 +33,39 @@
 # but independently 
 #
 4.255.101.92
+8.218.134.133
 14.29.240.143
+14.63.162.98
 14.99.254.18
+14.103.42.250
 15.236.242.227
+35.224.42.65
 36.41.64.57
 43.133.112.167
+43.153.52.37
+81.70.186.78
+91.92.199.36
+103.98.131.106
 103.99.115.26
 103.142.87.238
 106.54.172.245
+110.40.153.96
 117.7.227.159
 119.96.158.238
 121.228.4.175
 123.253.162.254
 124.225.202.31
+125.124.29.205
 149.202.251.170
 154.216.20.66
 156.236.75.85
 157.245.100.228
 159.223.192.90
+162.216.150.40
+180.184.194.133
+191.233.25.20
+193.32.162.116
+193.32.162.119
+193.151.154.126
 194.26.25.178
+202.5.17.125
