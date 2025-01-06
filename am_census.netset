@@ -9,12 +9,12 @@
 # Maintainer      : Aleksandr_Morozov
 # Maintainer URL  : https://gitlab.com/ohisee/block-shodan-stretchoid-census
 # List source URL : https://gitlab.com/ohisee/block-shodan-stretchoid-census
-# Source File Date: Sat Aug 17 22:14:19 UTC 2024 
+# Source File Date: Mon Jan  6 23:20:08 UTC 2025 
 #
 # Category        : scan
-# Version         : 1723932859 
+# Version         : 1736205608 
 #
-# This File Date  : Sat Aug 17 22:14:19 UTC 2024 
+# This File Date  : Mon Jan  6 23:20:08 UTC 2025 
 # Update Frequency: XXX
 # Aggregation     : none
 # Entries         : XXX subnets, XXX unique IPs
@@ -51,10 +51,12 @@
 # SOFTWARE.
 #
 31.44.185.0/24
+45.156.128.0/24
 45.156.130.0/24
 66.132.148.0/24
 66.132.153.0/24
 66.132.159.0/24
+69.175.12.0/24
 80.82.79.0/24
 107.151.182.0/24
 128.14.128.0/24
@@ -67,10 +69,12 @@
 167.248.133.0/24
 169.197.108.0/24
 185.180.140.0/24
+185.180.143.0/24
 192.35.168.0/23
 193.118.51.0/24
 193.118.52.0/24
 193.118.53.0/24
+193.118.55.0/24
 198.108.66.0/23
 199.45.154.0/23
 206.168.32.0/22
