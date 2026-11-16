@@ -9,12 +9,12 @@
 # Maintainer      : TorProject.org
 # Maintainer URL  : https://www.torproject.org/
 # List source URL : https://check.torproject.org/exit-addresses
-# Source File Date: Mon Nov 16 07:10:15 PM UTC 2026
+# Source File Date: Mon Nov 16 08:10:07 PM UTC 2026
 #
 # Category        : anonymizers
-# Version         : 1794856215
+# Version         : 1794859807
 #
-# This File Date  : Mon Nov 16 07:10:15 PM UTC 2026 
+# This File Date  : Mon Nov 16 08:10:07 PM UTC 2026 
 # Update Frequency: 5 mins
 # Aggregation     : none
 # Entries         : XXX unique IPs
@@ -1123,6 +1123,7 @@
 193.218.118.89
 193.218.118.128
 193.218.118.173
+193.218.118.178
 193.218.118.182
 193.226.78.79
 193.238.152.133
@@ -1294,3 +1295,4 @@
 216.73.159.75
 216.73.159.101
 216.239.90.19
+217.154.92.188
